@@ -1,1 +1,93 @@
-<mxfile host="app.diagrams.net" modified="2021-03-18T09:18:54.079Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" version="14.4.9" etag="YsZlSlUvv8PJn9lIHyak" type="github"><diagram id="EBMlhyMTAobQvPsLs2LD">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-03-19T08:18:38.281Z" agent="5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Safari/537.36" etag="bREE-diIwIMyUIxQXqyJ" version="14.4.9" type="github">
+  <diagram id="EBMlhyMTAobQvPsLs2LD" name="Page-1">
+    <mxGraphModel dx="946" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yGzJCTVaXOf9f50iMopO-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yGzJCTVaXOf9f50iMopO-1" target="yGzJCTVaXOf9f50iMopO-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yGzJCTVaXOf9f50iMopO-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yGzJCTVaXOf9f50iMopO-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yGzJCTVaXOf9f50iMopO-2" target="yGzJCTVaXOf9f50iMopO-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yGzJCTVaXOf9f50iMopO-2" value="活动首页&lt;br&gt;输入手机号码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yGzJCTVaXOf9f50iMopO-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yGzJCTVaXOf9f50iMopO-8" target="yGzJCTVaXOf9f50iMopO-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yGzJCTVaXOf9f50iMopO-8" value="Dcore验证登录" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yGzJCTVaXOf9f50iMopO-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yGzJCTVaXOf9f50iMopO-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yGzJCTVaXOf9f50iMopO-10" value="是否司机" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="380" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yGzJCTVaXOf9f50iMopO-12" value="" style="endArrow=classic;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="yGzJCTVaXOf9f50iMopO-10" target="yGzJCTVaXOf9f50iMopO-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="445" as="sourcePoint" />
+            <mxPoint x="240" y="140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="420" />
+              <mxPoint x="240" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yGzJCTVaXOf9f50iMopO-13" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="300" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yGzJCTVaXOf9f50iMopO-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yGzJCTVaXOf9f50iMopO-16" target="yGzJCTVaXOf9f50iMopO-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yGzJCTVaXOf9f50iMopO-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yGzJCTVaXOf9f50iMopO-16" target="yGzJCTVaXOf9f50iMopO-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yGzJCTVaXOf9f50iMopO-25" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="yGzJCTVaXOf9f50iMopO-23">
+          <mxGeometry x="-0.1333" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yGzJCTVaXOf9f50iMopO-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF3333;" edge="1" parent="1" source="yGzJCTVaXOf9f50iMopO-16" target="yGzJCTVaXOf9f50iMopO-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yGzJCTVaXOf9f50iMopO-16" value="是否有符合活动规则订单" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="550" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yGzJCTVaXOf9f50iMopO-18" value="活动详情页(没有符合活动订单)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yGzJCTVaXOf9f50iMopO-20" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="315" y="570" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yGzJCTVaXOf9f50iMopO-21" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="480" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yGzJCTVaXOf9f50iMopO-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yGzJCTVaXOf9f50iMopO-22" target="yGzJCTVaXOf9f50iMopO-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yGzJCTVaXOf9f50iMopO-22" value="活动详情页(有可申请的订单列表)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yGzJCTVaXOf9f50iMopO-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yGzJCTVaXOf9f50iMopO-26" target="yGzJCTVaXOf9f50iMopO-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yGzJCTVaXOf9f50iMopO-26" value="&amp;nbsp;点击一键申请" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yGzJCTVaXOf9f50iMopO-28" value="end" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yGzJCTVaXOf9f50iMopO-30" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(204 , 204 , 204)&quot;&gt;是否在活动时间内&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(204 , 204 , 204)&quot;&gt;是否在订单有效期内&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(204 , 204 , 204)&quot;&gt;是否在订单城市内&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(204 , 204 , 204)&quot;&gt;订单类型(货运、企业、搬家)多选&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(204 , 204 , 204)&quot;&gt;补贴金额上限&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(204 , 204 , 204)&quot;&gt;补贴范围(全城、行政区域)&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(204 , 204 , 204)&quot;&gt;是否符合活动车型规格&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(204 , 204 , 204)&quot;&gt;补贴方式(固定金额、起步价、里程差价)&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;rounded=0;align=left;strokeColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="530" y="450" width="170" height="280" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
